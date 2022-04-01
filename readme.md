@@ -16,6 +16,11 @@ It uses gradle 7.3.3 and java 17 and lower.
 - Permission System
 - Change group name to rootProject.name in build.gradle
 
+### Images
+![image](https://user-images.githubusercontent.com/51513175/161197286-dfa62b8e-6c35-4b60-98bc-d6c0449faf20.png)
+![image](https://user-images.githubusercontent.com/51513175/161197301-925b5449-aaa6-4592-979c-2496bae69e10.png)
+![image](https://user-images.githubusercontent.com/51513175/161197336-0bbef398-1248-4a84-b3c4-e6282aa428a9.png)
+
 <br>
 
 ## Setup
